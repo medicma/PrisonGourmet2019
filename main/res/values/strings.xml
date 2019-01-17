@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PrisonGourmet</string>
+    <string name="action_settings">Settings</string>
+    <string name="picture">picture</string>
+    <string name="welcome">Welcome to The Prison Gourmet. Please choose a recipie from below.</string>
+    <string name="cover">cover</string>
+    <string name="website">Visit Website</string>
+    <string name="contact">Contact Us</string>
+    <string name="chef">Meet The Chef</string>
+    <string name="blog">Visit The Blog</string>
+    <string name="title_activity_recipie">Recipie</string>
+    <string name="Exit">Thank You For Using The Prison Gourmet</string>
+    <string name="age">Age :</string>
+    <string name="name">Name :</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions:</string>
+    <string name="image">Place Pic Here</string>
+    <string name="todo2">TODO</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="view_favorites">View Favorites</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="home2">Home</string>
+    <string name="Remove_Recipie" />
+    <string name="remove_from_favorites">Remove From Favorites</string>
+    <string name="close">Close</string>
+    <string name="star">star</string>
+    <string name="todo">TODO</string>
+    <string name="favorites">Favorites</string>
+</resources>

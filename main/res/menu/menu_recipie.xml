@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/chef"
+        android:orderInCategory="100"
+        android:title="@string/chef"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="@string/contact"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/website"
+        android:orderInCategory="100"
+        android:title="@string/website"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/blog"
+        android:orderInCategory="100"
+        android:title="@string/blog"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:title="@string/home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/viewFavorites"
+        android:orderInCategory="100"
+        android:title="@string/view_favorites"
+        app:showAsAction="never" />
+</menu>
